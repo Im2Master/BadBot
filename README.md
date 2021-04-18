@@ -12,4 +12,4 @@ Telechargez le bot et cliquez sur install.bat apres l'installation fermer le et 
 
 
 # Installation autre technique
-Ouvrez le fichier installation
+Ouvrez le fichier CommentStartSansBat.txt pour plus d'info
