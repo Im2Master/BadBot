@@ -1,12 +1,12 @@
 {
-  "name": "master",
+  "name": "apx",
   "version": "1.0.0",
-  "description": "First bot discord dev by me",
+  "description": "BotForJdev",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Master",
+  "author": "Apx",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1",
