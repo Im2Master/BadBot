@@ -1,0 +1,9 @@
+1. Ouvrir le fichier du bot 
+2. Cliquez un peu a cote du chemin du fichier normalement tout le chemin va apparaitre et devenir bleu
+3. Effacer et écrire cmd
+4. npm i (Installation des dépendances du bot exemple discord.js)
+5. node index.js (Start le bot)
+
+
+Note : Vous devez avoir nodejs installé sur votre pc 
+https://nodejs.org/en/
