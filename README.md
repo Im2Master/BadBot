@@ -1,5 +1,5 @@
 # jdevBot
-Bot codé pour J-Developpement 
+Bot codé pour J-Developpement |
 https://discord.gg/st5h5CJqNU
 
 
