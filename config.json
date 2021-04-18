@@ -1,8 +1,8 @@
 {
-    "token": "ODMxOTkyNDExMjg1NjE4NzI5.YHdTUA.YYhocxd7ovS88zPMrTxROXrtlHM",
-    "bienvenuerole": "membre",
-    "idchannelbienvenue": "831997397831909466",
-    "couleur": "#2F3136",
-    "logsrp": "832345460105674823",
-    "prefix": "!"
+    "token": "TOKEN DE VOTRE BOT",
+    "bienvenuerole": "NOM DU ROLE QUAND UN MEMBRE JOIN",
+    "idchannelbienvenue": "ID DU CHANNEL DES MESSAGES DE JOIN",
+    "couleur": "COULEUR EXEMPLE #2F3136",
+    "logsrp": "ID DU CHANNEL POUR LES LOGS DES COMMANDES RP GENRE TWT ANO",
+    "prefix": "PREFIX EXEMPLE ! OU +"
 }
