@@ -6,13 +6,13 @@ module.exports = {
         } else {
             message.channel
                 .clone({
-                    reason: `Purge réclamé par ${message.author.tag} (${message.author.id})`,
+                    reason: `Nuke réclamé par ${message.author.tag} (${message.author.id})`,
                 })
                 .then(
                     (c) =>
                         c.setPosition(message.channel.position) &&
                         c.send(
-                            `:boom: La purge réclamé par ${message.author} a été effectué.`
+                            `:boom: Le nuke réclamé par ${message.author} a été effectué.`
                         )
                 )
             message.channel.delete()
