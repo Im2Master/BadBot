@@ -9,3 +9,7 @@ Le bot est comme une template pour bien débuter son propre bot mais si vous vou
 
 # Installation Facile
 Telechargez le bot et cliquez sur install.bat apres l'installation fermer le et ouvrer start.bat pour démarrez le bot
+
+
+# Installation autre technique
+Ouvrez le fichier installation
