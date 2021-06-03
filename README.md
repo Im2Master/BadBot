@@ -1,6 +1,5 @@
-# jdevBot
-Bot codé pour J-Developpement |
-https://discord.gg/st5h5CJqNU
+# BadBot
+Bot codé pour J-Developpement avant que sa soit de la merde
 
 
 # Note
